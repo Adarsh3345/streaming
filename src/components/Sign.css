@@ -1,12 +1,4 @@
-/* General Styles */
-  body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    background-color: #f4f4f9;
-  }
-  
+
   /* Signup & OTP Containers */
   .signup-container,
   .otp-container {
